@@ -8,3 +8,5 @@ Algorithms used for comparison: Linear Regression and Random Forest, Random Fore
 Run streamlit app: python -m streamlit run app.py
 
 To run the project, run all the cells of file in sequence, 01,02,03 and then app.py i.e. streamlit application
+
+Will add the deployed version soon, wait for it
